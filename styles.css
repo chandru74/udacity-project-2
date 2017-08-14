@@ -1,0 +1,28 @@
+/* add your CSS here */
+.outline{
+  border-style: ridge;
+  padding: 1em;
+  width: 322px;
+}
+
+.innerborder{
+  border-style: ridge;
+  padding: 1em;
+  width: 282px;
+}
+
+li{
+  list-style: none;
+}
+
+img{
+  width: 300px;
+}
+
+span{
+  font-weight: bold;
+}
+
+.emphasis{
+  font-style: italic;
+}
